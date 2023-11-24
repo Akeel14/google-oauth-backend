@@ -1,0 +1,7 @@
+.env
+node_modules
+.history
+dist
+.prettierrc.json
+.DS_Store
+.env.production
